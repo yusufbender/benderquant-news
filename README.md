@@ -61,8 +61,7 @@ BenderQuant projesine katkıda bulunmak veya öneri yapmak için:
 Her türlü soru, öneri ve iş birliği için:  
 - Twitter: [@yusufbender](https://twitter.com/yusufbender)  
 - LinkedIn: [Yusuf Bender](https://linkedin.com/in/yusufbender)  
-- Email: bender@quant.com  
-
+- Email: benderveyusuf@gmail.com
 ---
 
 ## ⭐ Destek Ol
