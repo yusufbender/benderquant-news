@@ -1,5 +1,6 @@
 # BenderQuant News & Updates
 
+![BenderQuant Logo](benderquant.png)
 ---
 
 ## 📢 Proje Hakkında
